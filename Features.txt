@@ -1,3 +1,5 @@
 1. A user can chat with the agent - basic (main)
 2. Agent can bowser the Internet
 3. Agent can remember the full coversation
+
+LLM + Tools = AI Agent
